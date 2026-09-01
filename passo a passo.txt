@@ -1,0 +1,16 @@
+
+Passo a passo do mini projeto modulo 2
+
+PARTE 1
+
+1- criar pasta no computador
+2- criar um ambiente virtual .venv para isolar o processamento
+3- criar requirements.txt e incluir as bibliotecas iniciais. depois adicionando a medida da necessidade
+4- criar github do mini projeto
+5- leitura das orientacoes do projeto
+6- baixar os arquivos dataset
+7- criar um arquivo ipynb para iniciar os codigos
+8- segmentar em markdowns e codigos com a explicacao de cada parte do projeto
+9- criar arquivo README.md (usando GPT e ajustar os detalhes a medida que forem executados as etapas)
+
+PARTE 2
