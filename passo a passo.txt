@@ -1,7 +1,7 @@
 
 Passo a passo do mini projeto modulo 2
 
-PARTE 1
+INICIO
 
 1- criar pasta no computador
 2- criar um ambiente virtual .venv para isolar o processamento
@@ -13,4 +13,37 @@ PARTE 1
 8- segmentar em markdowns e codigos com a explicacao de cada parte do projeto
 9- criar arquivo README.md (usando GPT e ajustar os detalhes a medida que forem executados as etapas)
 
-PARTE 2
+PARTE 1
+
+1- Carragamento e analise exploratoria de dados (EDA)
+
+parte 2
+
+1- pipeline de pre-processamento e divisao de dados
+    -divisao treino / teste
+    -normalizacao e redimensionamento
+    -justificativa da normalizaçao dos dados
+
+
+parte 3
+
+1- implementacao e treinamento dos 3 modelos
+    -SVM, Randon Forest, MPL(perceptron multicamadas)
+    -criar, treinar, medir tempo, validar
+    -comparativo entre os 3 modelos e criar tabela
+    -justificativa da escolha do modelos
+
+
+parte 4
+
+1- avaliacao comparativa de desempenho
+
+    -Gerar previsões dos 3 modelos no conjunto de teste;  
+    -Calcular Accuracy, Precision, Recall e F1-Score;  
+    -Gerar uma matriz de confusão 10 × 10 para cada modelo;  
+    -Criar os três heatmaps;  
+    -Consolidar os resultados em uma tabela;  
+    -Identificar quais dígitos mais confundem;  
+    -Comparar desempenho com tempo de treinamento;  
+    -Elaborar uma conclusão técnica.
+
