@@ -21,8 +21,11 @@ Este repositório contém um **Mini-Projeto Avaliativo de Machine Learning** foc
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+
+
+git clone https://github.com/rafadebem1-cpu/Analise_preditiva_digitos_manuscritos.git
+
+cd Analise_preditiva_digitos_manuscritos.git
 ```
 
 ### 2. Criar e Ativar um Ambiente Virtual (Opcional, mas Recomendado)
